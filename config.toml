@@ -1,0 +1,50 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'stina space'
+theme = "cactus"
+copyright = "Christina Dacanay" 
+
+[params]
+  colortheme = 'classic'
+  description = "This is the place where I am putting all my things."
+
+  mainSectionTitle = "Posts"
+  postsOnHomePage = 6
+
+  rss = true
+  tocInline = true
+
+[params.comments]
+enabled = true
+
+[[params.social]]
+  name = "instagram"
+  link = "https://www.instagram.com/studio.stina"
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/c-dacanay"
+
+[[params.social]]
+  name = "email"
+  link = "christina@cdacanay.com" # no need for "mailto:" at the start
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 4
