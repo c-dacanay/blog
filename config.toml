@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://wonderful-khorana-3e351b.netlify.app/'
 languageCode = 'en-us'
 title = 'stina space'
 theme = "cactus"
