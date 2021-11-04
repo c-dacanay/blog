@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2021-11-03T14:51:50-04:00
-draft: true
+draft: false
 tags: ['post', 'blog', 'projects', 'music']
 comments: false
 ---
