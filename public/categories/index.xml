@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on stina space</title>
-    <link>http://example.org/categories/</link>
+    <link>https://wonderful-khorana-3e351b.netlify.app/categories/</link>
     <description>Recent content in Categories on stina space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Christina Dacanay</copyright><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Christina Dacanay</copyright><atom:link href="https://wonderful-khorana-3e351b.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

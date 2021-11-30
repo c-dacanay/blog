@@ -2,10 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://wonderful-khorana-3e351b.netlify.app/tags/blog/</loc>
+    <lastmod>2021-11-01T14:51:50-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://wonderful-khorana-3e351b.netlify.app/posts/october-update/</loc>
+    <lastmod>2021-11-01T14:51:50-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://wonderful-khorana-3e351b.netlify.app/tags/post/</loc>
+    <lastmod>2021-11-01T14:51:50-04:00</lastmod>
+  </url><url>
+    <loc>https://wonderful-khorana-3e351b.netlify.app/posts/</loc>
+    <lastmod>2021-11-01T14:51:50-04:00</lastmod>
+  </url><url>
+    <loc>https://wonderful-khorana-3e351b.netlify.app/tags/residency/</loc>
+    <lastmod>2021-11-01T14:51:50-04:00</lastmod>
+  </url><url>
+    <loc>https://wonderful-khorana-3e351b.netlify.app/</loc>
+    <lastmod>2021-11-01T14:51:50-04:00</lastmod>
+  </url><url>
+    <loc>https://wonderful-khorana-3e351b.netlify.app/tags/</loc>
+    <lastmod>2021-11-01T14:51:50-04:00</lastmod>
+  </url><url>
+    <loc>https://wonderful-khorana-3e351b.netlify.app/tags/update/</loc>
+    <lastmod>2021-11-01T14:51:50-04:00</lastmod>
+  </url><url>
+    <loc>https://wonderful-khorana-3e351b.netlify.app/categories/</loc>
   </url>
 </urlset>

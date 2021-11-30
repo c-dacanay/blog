@@ -11,6 +11,8 @@ copyright = "Christina Dacanay"
   mainSectionTitle = "Posts"
   postsOnHomePage = 6
 
+  css = ["css/custom.css"]
+
   rss = true
   tocInline = true
 
